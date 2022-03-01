@@ -35,8 +35,8 @@
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/java.png?raw=true"></code>
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasRicardo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasRicardo&layout=compact)](https://github.com/VillegasRicardo/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VillegasRicardo&show_icons=true&theme=github_dark)  
 
 
