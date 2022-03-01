@@ -1,5 +1,8 @@
 ### Hola, que gusto que pases por aqui 👋
 
+** En este repositorio encontraras fragmentos de codigo que he utilizado en diversos proyectos los cuales puedes checarlos si algo te sirve y
+  recuerda que "Un gran poder con lleva una gran responsabilidad" 😊 **
+<br>
 
 <img align='right' src='https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/caras/C.PNG?raw=true' width='200"'>
 
@@ -35,13 +38,6 @@
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/spring.png?raw=true"></code>
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/java.png?raw=true"></code>
 
-** En este repositorio encontraras fragmentos de codigo que he utilizado en diversos proyectos los cuales puedes checarlos si algo te sirve y
-  recuerda que "Un gran poder con lleva una gran responsabilidad" 😊 **
-<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasRicardo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VillegasRicardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VillegasRicardo&show_icons=true&theme=github_dark)  
 
 ![Profile views](https://gpvc.arturio.dev/VillegasRicardo)  
