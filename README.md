@@ -4,6 +4,7 @@
 <img align='right' src='https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/caras/C.PNG?raw=true' width='200"'>
 
 ## ¿Quien soy?
+- 🎓  Soy un Ingenierio en Sistemas Computaciones egresado de <a href="https://tesoem.edomex.gob.mx/" target="_blank">Tecnológico de Estudios Superiores del Oriente del Estado de México</a>;
 - 💻  Actualmente trabajo en <a href="https://www.infinitecs.com.mx/" target="_blank">Infinite Computer Solutions</a>;
 - 👨🏻‍💻  Realmente me apasiona la programación web tanto Frontend y el Backend;
 - 🌱  En este momento sigo capacitandome con nuevos retos en <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/" target="_blank">Innovacción Virtual Program powered by Microsoft</a> perteneciendo a Launch X (Formación de Developers);
@@ -34,7 +35,7 @@
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/spring.png?raw=true"></code>
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/java.png?raw=true"></code>
 
-**En este repositorio encontraras fragmentos de codigo que he utilizado en diversos proyectos los cuales puedes checarlos si algo te sirve y
+** En este repositorio encontraras fragmentos de codigo que he utilizado en diversos proyectos los cuales puedes checarlos si algo te sirve y
   recuerda que "Un gran poder con lleva una gran responsabilidad" 😊 **
 <br>
 
