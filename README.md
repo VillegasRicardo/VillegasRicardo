@@ -14,9 +14,6 @@
 - 💻 He tenido la oportunidad de colaborar tanto en el sector gubernamental asi como en el privado;
 - 📫 Cómo contactarme: i-villegas.ricardo@hotmail.com;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAcevedoF)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Lenguajes y Herramientas que he utilizado:**
 <br>
 
@@ -36,3 +33,11 @@
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/terminal.png?raw=true"></code>
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/spring.png?raw=true"></code>
 <code><img height="30" src="https://github.com/VillegasRicardo/VillegasRicardo/blob/main/Recursos/iconos/java.png?raw=true"></code>
+
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VillegasRicardo&show_icons=true&theme=github_dark)  
+
+
+![Profile views](https://gpvc.arturio.dev/VillegasRicardo)  
