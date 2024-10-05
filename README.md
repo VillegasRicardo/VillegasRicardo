@@ -8,10 +8,9 @@
 ## ¿Quien soy?
 - 🎓  Soy un Ingenierio en Sistemas Computaciones egresado de <a href="https://tesoem.edomex.gob.mx/" target="_blank">Tecnológico de Estudios Superiores del Oriente del Estado de México</a>;
 - 👨🏻‍💻  Realmente me apasiona la programación web tanto Frontend y el Backend;
-- 🌱  En este momento sigo capacitandome con nuevos retos en <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/" target="_blank">Innovacción Virtual Program powered by Microsoft</a> perteneciendo a Launch X (Formación de Developers);
 - 🚀  Soy un entusiasta de la resolución de problemas creativos;
 - 💬  Me gusta compartir e intercambiar conocimientos;
-- </> Me gusta diseñar paginas web con estilos llamativos </> 😊;
+- </> Me gusta diseñar paginas web con estilos llamativos y desarrollar APIS en java </> 😊;
 - ⚡️ Mi experiencia programando es de 8 años y los que faltan 😊;
 - 💻 He tenido la oportunidad de colaborar tanto en el sector gubernamental asi como en el privado;
 - 📫 Cómo contactarme: i-villegas.ricardo@hotmail.com;
