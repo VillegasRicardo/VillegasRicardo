@@ -7,13 +7,12 @@
 
 ## ¿Quien soy?
 - 🎓  Soy un Ingenierio en Sistemas Computaciones egresado de <a href="https://tesoem.edomex.gob.mx/" target="_blank">Tecnológico de Estudios Superiores del Oriente del Estado de México</a>;
-- 👨🏻‍💻  Realmente me apasiona la programación web tanto Frontend y el Backend;
+- 👨🏻‍💻  Realmente me apasiona la programación en el Backend;
 - 🚀  Soy un entusiasta de la resolución de problemas creativos;
 - 💬  Me gusta compartir e intercambiar conocimientos;
-- </> Me gusta diseñar paginas web con estilos llamativos y desarrollar APIS en java </> 😊;
+- </> Me gusta desarrollar APIS </> 😊;
 - ⚡️ Mi experiencia programando es de 8 años y los que faltan 😊;
 - 💻 He tenido la oportunidad de colaborar tanto en el sector gubernamental asi como en el privado;
-- 📫 Cómo contactarme: i-villegas.ricardo@hotmail.com;
 <br>
 **Lenguajes y Herramientas que he utilizado:**
 <br>
